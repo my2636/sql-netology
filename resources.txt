@@ -1,0 +1,32 @@
+Полезные ссылки. Тренажёры, книги, вопросы с интервью
+
+Тренажёры
+
+Отличный свободный тренажёр
+https://sql-academy.org/ru/trainer
+
+Также
+https://stepik.org/course/63054/syllabus
+
+
+Книги
+
+Линн Бейли, Изучаем SQL
+Красочная простая весёлая книга для начинающих
+
+https://docs.google.com/file/d/0BzjGbQIp2abGcW1sYjZvUG9GZmc/edit?pli=1&resourcekey=0-uZYQar6EgXfOUqGL0ZnX9A
+
+Моргунов, Е. П. PostgreSQL. Основы языка SQL
+https://edu.postgrespro.ru/sql_primer.pdf
+
+Вопросы:
+
+Вопросы по SQL, которые часто задают на собеседовании. Часть 1
+https://habr.com/ru/articles/790850/
+
+Вопросы по SQL, которые часто задают на собеседовании. Часть 2
+https://habr.com/ru/articles/791208/
+
+Также
+100 вопросов для подготовки к собесу для Data Science
+https://habr.com/ru/articles/783766/

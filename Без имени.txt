@@ -1,0 +1,12 @@
+
+    FROM
+    ON
+    JOIN
+    where
+    GROUP BY
+    WITH CUBE или WITH ROLLUP
+    HAVING
+    SELECT
+    DISTINCT
+    ORDER BY
+    TOP
